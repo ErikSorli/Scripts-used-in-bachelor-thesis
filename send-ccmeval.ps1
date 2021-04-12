@@ -1,6 +1,16 @@
 function Get-CCMEvalResult
 {
-    <#             .Synopsis             Get the results of the most recent client health evaluation on a local or remote computer             .DESCRIPTION             Parses the ccmevalreport.xml file into a readable format to view the results of the ccmeval task.  Can be run on the local or remote computer.             .EXAMPLE             Get-CCMEvalResult             Returns the ccmeval results from the local machine             .EXAMPLE             Get-CCMEvalResult -ComputerName PC001             Returns the ccmeval results from a remote machine             .EXAMPLE             'PC001','PC002' | Get-CCMEvalResult             Returns the ccmeval results from a remote machine     #>
+    <#             .Synopsis             
+      Get the results of the most recent client health evaluation on a local or remote computer             
+      .DESCRIPTION             
+      Parses the ccmevalreport.xml file into a readable format to view the results of the ccmeval task.  Can be run on the local or remote computer.             
+      .EXAMPLE             
+      Get-CCMEvalResult Returns the ccmeval results from the local machine             
+      .EXAMPLE
+      Get-CCMEvalResult -ComputerName PC001 Returns the ccmeval results from a remote machine             
+      .EXAMPLE             
+      'PC001','PC002' | Get-CCMEvalResult Returns the ccmeval results from a remote machine     
+      #>
  
     #requires -Version 2
  
