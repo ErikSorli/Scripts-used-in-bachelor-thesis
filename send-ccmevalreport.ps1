@@ -13,10 +13,11 @@ If ($ComputerName -eq $env:COMPUTERNAME)
         Return
     }
    #Starting the process that checks the current health check for the given computer
-   Write-Verbose "Starting ccm health check for $ComputerName"
+   WriteOutput "Starting ccm health check for $ComputerName"
    Start-Process -Filepath "C:\Windows\CCM\CcmEval.exe"
    do{
         
     }while (Get-Process -ComputerName $ComputerName -Name CcmEval.exe -ErrorAction SilentlyContinue)
     #Sending the report to Config Manager
+    #Copy-Item -Path C:\Windows\CCM\CcmEval.xml -Destination '\S\Log' -ToSession(New-PSSession -ComputerName MANAGER.HDO.local)
 }
