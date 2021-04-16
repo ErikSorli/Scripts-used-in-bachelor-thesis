@@ -2,7 +2,7 @@
 Disse scriptene er for testing av klient maskiner
 #Ping.ps1
 Ping.ps1 
- - HEnter ned alle maskinene i et domenet
+ - Henter ned alle maskinene i et domenet
  - Pinger alle klientene som er hentet ned fra domenet
  - Displayer hvilket OS som kjører på maskina.
  
