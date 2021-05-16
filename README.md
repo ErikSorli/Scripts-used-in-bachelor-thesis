@@ -24,3 +24,6 @@ Dette scriptet er embeded
 #Set_hostname
 Lager hostname og deployerer det til maskin
 
+.gitinore filen ignorer bla text filer og xml filer per dags dato. 
+Dette er fordi det ikke var ønskelig at en skulle klunne pushe navn
+på klienten og xml filen for klient status.
