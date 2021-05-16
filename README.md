@@ -14,3 +14,13 @@ at en ny rapport blir opprettet.
  #Read-ccm
  - Leser ccmevalrapport som blir opprettet av send-ccm
  - dette leser fra xml filen som blir
+
+#Powershell script set_hostname og change_hostname
+
+#Change_hostname 
+Lager hostname og deployerer det til maskinen i TS
+Dette scriptet er embeded
+
+#Set_hostname
+Lager hostname og deployerer det til maskin
+
