@@ -1,0 +1,38 @@
+Update Id,Revision Number,Title,KB Articles,Security Bulletin,Has Superseded Updates,Creation Date,Declined Reason
+443adb88-c8d5-4c73-aec2-a04ccac17466,200,"2021-05 Cumulative Update for .NET Framework 3.5 and 4.8 for Windows 10 Version 2004 for ARM64 (KB4601554)",4601554,,True,05/11/2021 17:00:00,Windows 10 Version: 2004
+bddffbd5-6470-4fab-9015-e1f184d34cc3,200,"2021-05 Cumulative Update for .NET Framework 3.5 and 4.8 for Windows 10 Version 2004 for x64 (KB4601554)",4601554,,True,05/11/2021 17:00:00,Windows 10 Version: 2004
+84f954e5-6dee-4a8a-9772-555b82deaee7,200,"2021-05 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB5001841)",5001841,,True,05/11/2021 17:00:00,Windows 10 Version: 1607
+5690b478-e50c-4970-843e-2a65e26a325c,200,"2021-05 Cumulative Update for .NET Framework 3.5 and 4.8 for Windows 10 Version 1909 for x64 (KB4601556)",4601556,,True,05/11/2021 17:00:00,Windows 10 Version: 1909
+1cdc3a8e-64db-4e80-aba6-d28cb3dd1b37,200,"2021-05 Cumulative Update for .NET Framework 3.5 and 4.8 for Windows 10 Version 1909 for ARM64 (KB4601556)",4601556,,True,05/11/2021 17:00:00,Windows 10 Version: 1909
+e90a42d7-f612-4898-b2d1-f68f4ef05bba,200,"2021-05 Cumulative Update for .NET Framework 3.5, 4.7.2 and 4.8 for Windows 10 Version 1809 for x64 (KB5001879)",5001879,,True,05/11/2021 17:00:00,Windows 10 Version: 1809
+45ab6132-a15f-4511-80fe-59a058b30a8b,200,"2021-05 Cumulative Update for .NET Framework 3.5 and 4.8 for Windows 10 Version 2004 (KB4601554)",4601554,,True,05/11/2021 17:00:00,Windows 10 Version: 2004
+8702ace9-100c-4235-bfc7-7e706fec58b1,200,"2021-05 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1803 for x64 (KB5001842)",5001842,,True,05/11/2021 17:00:00,Windows 10 Version: 1803
+5342b08d-1dc1-4ddb-b354-a4c003ffc132,200,"2021-05 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 for x64 (KB5001841)",5001841,,True,05/11/2021 17:00:00,Windows 10 Version: 1607
+406489f5-7832-46cb-af79-d72dba8eae24,200,"2021-05 Cumulative Update for .NET Framework 3.5, 4.7.2 and 4.8 for Windows 10 Version 1809 (KB5001879)",5001879,,True,05/11/2021 17:00:00,Windows 10 Version: 1809
+ada383b4-f0ce-4996-b78c-8778f0ac0289,200,"2021-05 Cumulative Update for .NET Framework 3.5 and 4.8 for Windows 10 Version 1909 (KB4601556)",4601556,,True,05/11/2021 17:00:00,Windows 10 Version: 1909
+fb623619-8a12-4377-8d61-7cd7854de97a,200,"2021-05 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1803 (KB5001842)",5001842,,True,05/11/2021 17:00:00,Windows 10 Version: 1803
+136617ca-0717-4392-8223-b4f89eda432c,200,"2021-05 Servicing Stack Update for Windows 10 Version 1909 for x64-based Systems (KB5003244)",5003244,,True,05/11/2021 17:00:06,Windows 10 Version: 1909
+eadd6988-c3d6-40c5-aa7a-4f94c2749322,200,"2021-05 Cumulative Update for .NET Framework 3.5 and 4.7.2 for Windows 10 Version 1809 for ARM64 (KB5001879)",5001879,,True,05/11/2021 17:00:00,Windows 10 Version: 1809
+7be1a722-27cc-4d13-b991-9841035d1b75,200,"2021-05 Cumulative Update for Windows 10 Version 1803 for x86-based Systems (KB5003174)",5003174,,True,05/11/2021 17:00:06,Windows 10 Version: 1803
+9974a5e4-205b-41b8-88d3-29b5cfd71ba0,200,"2021-05 Servicing Stack Update for Windows 10 Version 1809 for x86-based Systems (KB5003243)",5003243,,True,05/11/2021 17:00:06,Windows 10 Version: 1809
+98300ae6-ab64-4371-aeb0-3bb72b23cec7,200,"2021-05 Servicing Stack Update for Windows 10 Version 1909 for ARM64-based Systems (KB5003244)",5003244,,True,05/11/2021 17:00:06,Windows 10 Version: 1909
+f3ea3983-2d89-4c75-bc35-a60a0fe34465,200,"2021-05 Servicing Stack Update for Windows 10 Version 1809 for x64-based Systems (KB5003243)",5003243,,True,05/11/2021 17:00:06,Windows 10 Version: 1809
+d6ba9fea-b7be-4d41-b7c1-e922ea33cd7c,200,"2021-05 Servicing Stack Update for Windows 10 Version 1909 for x86-based Systems (KB5003244)",5003244,,True,05/11/2021 17:00:06,Windows 10 Version: 1909
+e2c26260-954a-4158-b653-6e2bd8c3b72b,200,"2021-05 Cumulative Update for Windows 10 Version 1909 for x86-based Systems (KB5003169)",5003169,,True,05/11/2021 17:00:06,Windows 10 Version: 1909
+eba97f44-1871-4538-8fef-fc147baca298,200,"2021-05 Cumulative Update for Windows 10 Version 1803 for x64-based Systems (KB5003174)",5003174,,True,05/11/2021 17:00:06,Windows 10 Version: 1803
+ea7ee352-c992-44f5-8d8e-cec68ee63a18,200,"2021-05 Servicing Stack Update for Windows 10 Version 1803 for ARM64-based Systems (KB5003364)",5003364,,True,05/11/2021 17:00:06,Windows 10 Version: 1803
+efdf57f8-e9ea-44f0-9592-bb9fffd67ec3,200,"2021-05 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB5003197)",5003197,,True,05/11/2021 17:00:06,Windows 10 Version: 1607
+d16fc1aa-70d3-472b-a06b-3d8c2cd04477,200,"2021-05 Cumulative Update for Windows 10 Version 2004 for x86-based Systems (KB5003173)",5003173,,True,05/11/2021 17:00:10,Windows 10 Version: 2004
+2b84d3bc-f53b-4b21-a6ac-3ce46ffeea78,200,"2021-05 Cumulative Update for Windows 10 Version 1909 for ARM64-based Systems (KB5003169)",5003169,,True,05/11/2021 17:00:06,Windows 10 Version: 1909
+3bf35f5c-2f08-4a96-aec7-967e097de544,200,"2021-05 Servicing Stack Update for Windows 10 Version 1809 for ARM64-based Systems (KB5003243)",5003243,,True,05/11/2021 17:00:06,Windows 10 Version: 1809
+fd259cd1-4c36-4295-b1a4-d2245e0d0472,200,"2021-05 Cumulative Update for Windows 10 Version 1909 for x64-based Systems (KB5003169)",5003169,,True,05/11/2021 17:00:06,Windows 10 Version: 1909
+4a6b2fa0-67f6-480c-9aac-41ab935221bb,200,"2021-05 Servicing Stack Update for Windows 10 Version 1803 for x64-based Systems (KB5003364)",5003364,,True,05/11/2021 17:00:06,Windows 10 Version: 1803
+4d1ec349-a134-48a7-aa86-d9706fa939ae,200,"2021-05 Cumulative Update for Windows 10 Version 1803 for ARM64-based Systems (KB5003174)",5003174,,True,05/11/2021 17:00:06,Windows 10 Version: 1803
+d272cd9e-6212-44b4-b3fe-a93e568cecd8,200,"2021-05 Servicing Stack Update for Windows 10 Version 1803 for x86-based Systems (KB5003364)",5003364,,True,05/11/2021 17:00:06,Windows 10 Version: 1803
+52aeaa2b-1f47-42f9-8dbc-26d429923dc0,205,"2021-05 Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB5003197)",5003197,,True,05/11/2021 17:00:06,Windows 10 Version: 1607
+cfdcc1cd-9b3c-42e6-8c35-652c046c229d,200,"2021-05 Cumulative Update for Windows 10 Version 2004 for ARM64-based Systems (KB5003173)",5003173,,True,05/11/2021 17:00:09,Windows 10 Version: 2004
+0f28c729-a941-4b9f-907b-8f2fada6d908,200,"2021-05 Cumulative Update for Windows 10 Version 2004 for x64-based Systems (KB5003173)",5003173,,True,05/11/2021 17:00:09,Windows 10 Version: 2004
+a36eb480-c41f-4901-8c0a-7e998bc45e21,202,"2021-05 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5003171)",5003171,,True,05/11/2021 17:00:06,Windows 10 Version: 1809
+f246360c-d1a2-4829-9698-f943d6d81c5d,202,"2021-05 Cumulative Update for Windows 10 Version 1809 for x64-based Systems (KB5003171)",5003171,,True,05/11/2021 17:00:06,Windows 10 Version: 1809
+993685ca-f4f5-4026-9825-830372cd6b2f,202,"2021-05 Cumulative Update for Windows 10 Version 1809 for ARM64-based Systems (KB5003171)",5003171,,True,05/11/2021 17:00:06,Windows 10 Version: 1809
+984bcafa-30a0-4299-a33d-44043bfab6e0,200,"Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.339.766.0)",2267602,,True,05/15/2021 19:24:16,Superseded

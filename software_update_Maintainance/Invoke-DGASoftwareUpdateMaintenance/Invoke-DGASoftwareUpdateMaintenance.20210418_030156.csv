@@ -1,0 +1,18 @@
+Update Id,Revision Number,Title,KB Articles,Security Bulletin,Has Superseded Updates,Creation Date,Declined Reason
+16dd2542-2daf-455e-a7eb-29f7b8ea5ff0,200,"2021-04 Cumulative Update for Windows 10 Version 1809 for ARM64-based Systems (KB5001342)",5001342,,True,04/13/2021 17:00:06,Windows 10 Version: 1809
+5b9c9ad7-20e3-48d8-84b1-0e3de7179e11,200,"2021-04 Servicing Stack Update for Windows 10 Version 1803 for ARM64-based Systems (KB5001400)",5001400,,True,04/13/2021 17:00:06,Windows 10 Version: 1803
+c56abc14-518b-4c83-ae8e-146dd97f6f55,200,"2021-04 Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB5001347)",5001347,,True,04/13/2021 17:00:06,Windows 10 Version: 1607
+6ab99962-6e34-4a47-b840-96e116d16522,200,"2021-04 Servicing Stack Update for Windows 10 Version 1607 for x86-based Systems (KB5001402)",5001402,,True,04/13/2021 17:00:06,Windows 10 Version: 1607
+5dd228b1-3962-43c6-9f2d-b60244790cf1,200,"2021-04 Cumulative Update for Windows 10 Version 1809 for x64-based Systems (KB5001342)",5001342,,True,04/13/2021 17:00:06,Windows 10 Version: 1809
+b55027a4-c23a-4444-b49c-890887b8e781,200,"2021-04 Servicing Stack Update for Windows 10 Version 1809 for x64-based Systems (KB5001404)",5001404,,True,04/13/2021 17:00:06,Windows 10 Version: 1809
+7767bd14-490d-43dc-8622-8e2f0d6b3189,200,"2021-04 Cumulative Update for Windows 10 Version 1803 for x64-based Systems (KB5001339)",5001339,,True,04/13/2021 17:00:06,Windows 10 Version: 1803
+9fdcec2c-e6ce-4ac0-b672-768a7eb15567,200,"2021-04 Servicing Stack Update for Windows 10 Version 1607 for x64-based Systems (KB5001402)",5001402,,True,04/13/2021 17:00:06,Windows 10 Version: 1607
+1432562a-c9a7-4e28-9496-22d56c614588,200,"2021-04 Cumulative Update for Windows 10 Version 1803 for ARM64-based Systems (KB5001339)",5001339,,True,04/13/2021 17:00:06,Windows 10 Version: 1803
+0b607505-665e-450a-b6ab-b5b8623a8797,200,"2021-04 Servicing Stack Update for Windows 10 Version 1809 for ARM64-based Systems (KB5001404)",5001404,,True,04/13/2021 17:00:06,Windows 10 Version: 1809
+2518855a-558a-4bf5-85ce-887b26372382,200,"2021-04 Servicing Stack Update for Windows 10 Version 1803 for x64-based Systems (KB5001400)",5001400,,True,04/13/2021 17:00:06,Windows 10 Version: 1803
+d6f35c17-496f-4aed-8bb8-d44e7ede695a,200,"2021-04 Cumulative Update for Windows 10 Version 1803 for x86-based Systems (KB5001339)",5001339,,True,04/13/2021 17:00:06,Windows 10 Version: 1803
+dbb8dcf2-7efc-42bb-866a-6fabbb5d5c20,200,"2021-04 Servicing Stack Update for Windows 10 Version 1803 for x86-based Systems (KB5001400)",5001400,,True,04/13/2021 17:00:06,Windows 10 Version: 1803
+4d8cb713-baf0-4208-a615-c716c56218cf,200,"2021-04 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB5001347)",5001347,,True,04/13/2021 17:00:06,Windows 10 Version: 1607
+e20a5b08-da11-412e-a5dc-7dbc3a5aff0b,200,"2021-04 Servicing Stack Update for Windows 10 Version 1809 for x86-based Systems (KB5001404)",5001404,,True,04/13/2021 17:00:06,Windows 10 Version: 1809
+5fdd5567-2e18-423c-b8f9-81ab1e051972,200,"2021-04 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5001342)",5001342,,True,04/13/2021 17:00:06,Windows 10 Version: 1809
+2375346b-bb94-44c5-b9ab-9fd8b9397f24,200,"Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.335.1079.0)",2267602,,True,04/17/2021 18:40:48,Superseded
