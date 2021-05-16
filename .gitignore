@@ -1,0 +1,16 @@
+# Ignore binaries and symbols
+*.pdb
+*.dll
+*.wixpdb
+
+# Ignore packages
+*.deb
+*.tar.gz
+*.zip
+*.rpm
+*.pkg
+*.nupkg
+*.AppImage
+*.xml
+*.txt
+
